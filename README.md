@@ -42,4 +42,5 @@
   - Matplotlib
 
   ## Analysis
+  Map that displays all the cities with ideal weather conditions with location information when you hover over the city. 
   <img width="964" alt="Screenshot 2023-04-23 at 9 30 44 PM" src="https://user-images.githubusercontent.com/78105954/233886454-e6b0378f-0c29-4c60-b78f-b7c2a9550faf.png">
